@@ -42,8 +42,8 @@ Follow these steps to get the project running on your local machine.
 
 **Step 1: Clone the Repository**
 ```
-git clone https://github.com/yosraomran/agent_guide.git
-cd agent_guide
+git clone https://github.com/Manel-SEKMA/AgentAI-guide.git
+cd AgentAI-guide
 ```
 
 Step 2: Create a Python Virtual Environment
